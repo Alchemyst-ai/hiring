@@ -44,6 +44,7 @@ For the crew to shoot to the moon, here's the hats we need to fill!
 
 ## Solutions Wizard
 **Commonly known as**: Solutions/Forward Deployed Engineer
+
 [**Assignment Link**](./assignments/solutions-assignment.md)
 
 ### Superpowers we want
