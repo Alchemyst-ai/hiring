@@ -1,5 +1,5 @@
 # Platform Assignment
-Jump to (submissions)[#submission]
+Jump to [submissions](#submission)
 
 ## Submission
 You expected a submission form, didn't you? Sorry to break the mould, but you gotta show it to us, and as soon as you can!
