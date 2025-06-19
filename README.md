@@ -18,7 +18,7 @@ For the crew to shoot to the moon, here's the hats we need to fill!
 - Keep the platform team in loop regarding infra tradeoffs and gotchas.
 - **Skills (Brownie points)**: Docker, Kubernetes, Grafana, OpenTelemetry, Python/Typescript/Golang, optimizing infra consumption.
 
-## Platform Beaver
+## Platform Jedi
 **Commonly known as**: Platform/Product/Data Engineer
 
 [**Assignment Link**](./assignments/platform-assignment.md)
@@ -38,7 +38,7 @@ For the crew to shoot to the moon, here's the hats we need to fill!
 ### Superpowers we want
 - Develop AI agents on our platform at the speed of thought
 - Develop fast feedback loops from the community and improve on the agents
-- Ask for feature requests to the platform beavers, depending on community requests.
+- Ask for feature requests to the platform jedi, depending on community requests.
 - Create agents that make the community explode!
 - **Skills (Brownie points)**: Agentic AI frameworks (LangChain, LlamaIndex, AgnoAGI, etc), a generous mix of creativity and the Golden Retriever Energy for community feedbacks!
 
