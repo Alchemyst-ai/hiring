@@ -7,7 +7,7 @@
 - Create 3 agents, upload them on Github. Use the terms: alchemyst-awesome-saas, alchemyst-awesome-saas-<TOPIC_NAME>
 - Record their demos
 
-**BROWNIE POINTS** if you can set up a GUI and make a functional webapp, even more if you have **observability**.
+**BROWNIE POINTS** if you can set up a GUI and make a functional webapp, even more if you have **observability**. Even more, if you can set up an MCP Server!
 
 ## Assignment Duration
 1 week
