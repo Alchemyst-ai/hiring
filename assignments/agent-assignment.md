@@ -4,7 +4,9 @@
 - Sign up on our [Alchemyst Platform](https://platform.getalchemystai.com)
 - Get an API Key
 - Use our [**LLM proxy**](https://getalchemystai.com/#get-started)
-- Create 3 agents, upload them on Github. Use the terms: alchemyst-awesome-saas, alchemyst-awesome-saas-<TOPIC_NAME>
+- Create 3 agents, upload them on Github. Use these topics for your Github repo: `alchemyst-awesome-saas`, `alchemyst-awesome-saas-<TOPIC_NAME>`, where TOPIC_NAME is a keyword. For example, you would have something like `alchemyst-awesome-saas` and `alchemyst-awesome-saas-hr`. See the following figure for reference
+<p align="center"><img src="https://github.com/user-attachments/assets/143c77d7-cfda-4949-bd85-4f342d530e62" /></p>
+
 - Record their demos
 
 **BROWNIE POINTS** if you can set up a GUI and make a functional webapp, even more if you have **observability**. Even more, if you can set up an MCP Server!
