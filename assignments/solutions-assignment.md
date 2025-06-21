@@ -10,7 +10,7 @@
 **BROWNIE POINTS** if you can set up an MCP Server
 
 ## Assignment Duration
-3 days
+1-2 days
 
 ## Submission
 You expected a submission form, didn't you? Sorry to break the mould, but you gotta show it to us, and as soon as you can!
