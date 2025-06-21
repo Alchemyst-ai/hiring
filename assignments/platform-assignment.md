@@ -11,7 +11,7 @@
 **BROWNIE POINTS** if you can set up OpenTelemetry and pair up Observability with Grafana, and monitors on scheduled Agenda DB jobs.
 
 ## Assignment Duration
-1-2 weeks
+3-5 days
 
 ## Submission
 You expected a submission form, didn't you? Sorry to break the mould, but you gotta show it to us, and as soon as you can!
