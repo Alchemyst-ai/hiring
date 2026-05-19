@@ -1,54 +1,32 @@
-# Join the next rocketship!
+# Alchemyst Hiring
 
-## Heave ho! Choose your journey
-For the crew to shoot to the moon, here's the hats we need to fill!
+Welcome! This repo is the index of hiring drives we've run at Alchemyst. Each folder below is a self-contained drive with role descriptions and take-home assignments.
 
-**BASE EXPECTATION**: Exceptionally high agency, adaptability and learnability.
-**Salary is no bar**.
+**Baseline expectation across every drive:** exceptionally high agency, adaptability, and learnability.
 
-## Infra Puppeteer
-**Commonly known as**: DevOps/Infra Engineer
+## Drives
 
-[**Assignment Link**](./assignments/infra-assignment.md)
+### [May 2026](./may-2026/)
+Open positions for our 2026 hiring cycle.
 
-### Superpowers we want
-- We have a lot of raw compute, you will string them together
-- Extremely high agency - your puppets will dance without tiring you.
-- Prevent infra from having blips while the team sleeps.
-- Keep the platform team in loop regarding infra tradeoffs and gotchas.
-- **Skills (Brownie points)**: Docker, Kubernetes, Grafana, OpenTelemetry, Python/Typescript/Golang, optimizing infra consumption.
+| Role | Assignment |
+| --- | --- |
+| Full-stack AI Engineer | [Intelligent Resume Assistant (Agentic AI System)](./may-2026/fullstack-ai-assignment.md) |
+| B2B Custom Agent Engineer | [Real-Time AI Chat Application Using WebSockets](./may-2026/b2b-custom-agent-assignment.md) |
+| DevOps Intern | [Assignment](./may-2026/devops-internship-assignment.md) |
 
-## Platform Jedi
-**Commonly known as**: Platform/Product/Data Engineer
+### [June 2025](./june-2025/)
+See the [drive overview](./june-2025/README.md) for the full pitch.
 
-[**Assignment Link**](./assignments/platform-assignment.md)
+| Role | Also known as | Assignment |
+| --- | --- | --- |
+| Infra Puppeteer | DevOps / Infra Engineer | [Infra Assignment](./june-2025/infra-assignment.md) |
+| Platform Jedi | Platform / Product / Data Engineer | [Platform Assignment](./june-2025/platform-assignment.md) |
+| Agentic Maverick | Agentic / Applied AI Engineer | [Agent Assignment](./june-2025/agent-assignment.md) |
+| Solutions Wizard | Solutions / Forward Deployed Engineer | [Solutions Assignment](./june-2025/solutions-assignment.md) |
 
-### Superpowers we want
-- Consistent, high output work - be a master cyberspace craftsman.
-- A keen eye for extreme performance - we want you to squeeze out every last drop of performance out of our infra!
-- A knack for understanding data and data flows.
-- Build the platform on top of our infra to let the mavericks and solution wizards go supersonic!
-- **Skills (Brownie points)**: TypeScript, Python, Data Processing, Profiling, OpenTelemetry, async and multithreaded/multiprocess programming.
+## How to apply
 
-## Agentic Maverick
-**Commonly known as**: Agentic/Applied AI Engineer
+Each assignment page links to a meeting booking page — there's no submission form. Build what you can in the time given, then show it to us directly.
 
-[**Assignment Link**](./assignments/agent-assignment.md)
-
-### Superpowers we want
-- Develop AI agents on our platform at the speed of thought
-- Develop fast feedback loops from the community and improve on the agents
-- Ask for feature requests to the platform jedi, depending on community requests.
-- Create agents that make the community explode!
-- **Skills (Brownie points)**: Agentic AI frameworks (LangChain, LlamaIndex, AgnoAGI, etc), a generous mix of creativity and the Golden Retriever Energy for community feedbacks!
-
-## Solutions Wizard
-**Commonly known as**: Solutions/Forward Deployed Engineer
-
-[**Assignment Link**](./assignments/solutions-assignment.md)
-
-### Superpowers we want
-- Clients should remember you fondly just after one meeting
-- Ability to quickly prototype PoCs
-- Collaborative spirit - you'll need lots of that for customers/teams who need dedicated support!
-- **Skills (Brownie points)**: Fullstack development, UI/UX
+> It's okay if you don't finish the entire assignment. We want to see the effort you put in. Skills are transferable; the go-getter attitude isn't.

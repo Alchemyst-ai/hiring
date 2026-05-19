@@ -1,0 +1,10 @@
+version: 1
+workers:
+  iii-http:
+    version: 0.12.0
+    type: engine
+    dependencies: {}
+  iii-state:
+    version: 0.12.0
+    type: engine
+    dependencies: {}
