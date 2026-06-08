@@ -6,6 +6,13 @@ Welcome! This repo is the index of hiring drives we've run at Alchemyst. Each fo
 
 ## Drives
 
+### [June 2026 — Full Stack AI](./June-2026_FullStackAI/)
+A systems-focused assignment for Full Stack AI Engineers. Build an **Agent Console** — a Next.js application that connects to a provided mock AI agent backend over WebSockets, renders streaming responses with mid-stream tool call interruptions, displays a live agent trace timeline, and survives the backend's chaos mode without crashing or losing state. Includes a Dockerised agent-server with a documented WebSocket protocol.
+
+| Role | Also known as | Assignment |
+| --- | --- | --- |
+| Full Stack AI Engineer | — | [Agent Console Assignment](./June-2026_FullStackAI/README.md) |
+
 ### [May 2026](./may-2026/)
 Open positions for our 2026 hiring cycle. See the [drive overview](./may-2026/README.md) for the full pitch.
 
