@@ -1,0 +1,35 @@
+{
+  "name": "agent-console",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "verify:server": "node scripts/verify-agent-server.mjs",
+    "verify:chaos": "node scripts/verify-agent-server.mjs --mode chaos",
+    "capture:screenshots": "node scripts/capture-submission.mjs --mode screenshots",
+    "capture:chaos-video": "node scripts/capture-submission.mjs --mode chaos-video",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "15.3.8",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.21",
+    "@types/react": "19.1.4",
+    "@types/react-dom": "19.1.5",
+    "typescript": "5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.4",
+    "playwright": "^1.52.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

@@ -18,7 +18,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+/lib/
 lib64/
 parts/
 sdist/
@@ -383,3 +383,7 @@ target
 
 .vscode
 .mypy*
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
